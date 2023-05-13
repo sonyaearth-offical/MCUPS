@@ -1,0 +1,20 @@
+
+{
+    "comment": "In such a structure, from the top, the IDs are 0, 1, 2... and so on.",
+    "main": [
+        {
+            "path": {
+                "ignore": ["backpak.json"],
+                "ftp_path": "./backup/",
+                "output": "D:/test",
+                "src": "C:/example"
+            }
+        },
+        {
+            "path": {
+                "ignore": ["foo*"],
+                "ftp_path": "./foo/"
+            }
+        }
+    ]
+}
