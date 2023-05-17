@@ -1,4 +1,4 @@
-# MCUPS
+# MCUPS(Initial App Name: BackPak)
 
 日本語版→ [README_JA.md](https://github.com/sonyaearth-offical/backpak/blob/main/README_JA.md)
 
