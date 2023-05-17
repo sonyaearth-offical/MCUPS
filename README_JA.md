@@ -1,4 +1,4 @@
-# MCUPS
+# MCUPS(初期名: BackPak)
 
 english→ [README.md](https://github.com/sonyaearth-offical/backpak/blob/main/README.md)
 
